@@ -10,9 +10,7 @@ ver.6.23
 タイトル　　　　　　　　　F12
 プロパティ　　　　　　　　F1
 
-このゲームをプレイするにはRPGツクールXP-RTPが必要です
-↓からダウンロードできます
-http://www.famitsu.com/freegame/rtp/xp_rtp.html
+このゲームはRPGツクールXP-RTPが不必要です
 
 ～攻略のヒント～
 
@@ -54,3 +52,4 @@ WEB WAVE LIB http://www.s-t-t.com/wwl/
 ゲーム置き場：http://mygames888.info/
 ブログ「日記」：http://mynikki.info/
 連絡先：nopropsneeded@gmail.com
+
